@@ -46,7 +46,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 This chart is also available using this link: 
-![election_analysis.txt](analysis/election_analysis.txt)
+[election_analysis.txt](analysis/election_analysis.txt)
 
 
 ## Election-Audit Summary:
