@@ -17,6 +17,8 @@ A colorado Board of Elections employee has given you the following tasks to comp
 
 ##Election-Audit Results:
 
+![election_analysis.png](analysis/election_analysis.png)
+
 Election Results
 -------------------------
 Total Votes: 369,711
@@ -38,7 +40,10 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
-This chart is also available using this link ![election_analysis.txt](analysis/election_analysis.txt)
+This chart is also available using these links: 
+![election_analysis.txt](analysis/election_analysis.txt)
+![election_analysis.png](analysis/election_analysis.png)
+
 
 ##Election-Audit Summary:
 The audit of the election shows that:
