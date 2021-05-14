@@ -12,8 +12,9 @@ A colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources:
 
- Data Source: election_results.csv
+ Data Source: [election_results.csv](Resouces/election_results.csv)
  Software: Python 3.7.6, Visual Studio Code, 1.56.0
+ Code:[PyPoll_Challenge.py(PyPoll_Challenge.py)
 
 ## Election-Audit Results:
 
