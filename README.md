@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+Project Overview
 
 A colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congeressional election.  We have set out to find the answers to the following:
 
@@ -10,12 +10,12 @@ A colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-##Resources
+Resources
 
  Data Source: election_results.csv
  Software: Python 3.7.6, Visual Studio Code, 1.56.0
 
-##Election-Audit Results
+Election-Audit Results
 
 ![election_analysis.png](analysis/election_analysis.png)
 
@@ -49,10 +49,10 @@ This chart is also available using this link:
 ![election_analysis.txt](analysis/election_analysis.txt)
 
 
-##Election-Audit Summary
+Election-Audit Summary
 The audit of the election shows that:
 
 With the information at hand using "election_results.csv" we determined that there were 3 candiates in the election over 3 counties.  The candidates in the election were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.  While the election took place in Arapahoe, Denver and Jefferson Counties.  The congressional election contained 369,711 votes.  Diana DeGette was declared the winner with 73.8% (272,892 votes) of the popular vote.  Denver County had the largest voter turnout in the election with 82.8% (306,055) of votes cast in the election.  See the above for a list containing all the information we recorded.
     
-##Election-Audit Proposal
+Election-Audit Proposal
 With the script we have produced you will be able to find the accurate totals of any election with a few minor tweaks.  It is a matter of lining up the header rows to match the County and Candidates, as well as finding the proper path to the source file.
